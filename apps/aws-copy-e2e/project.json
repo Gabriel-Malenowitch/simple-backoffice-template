@@ -1,0 +1,10 @@
+{
+  "name": "aws-copy-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/aws-copy-e2e/src",
+  "implicitDependencies": ["aws-copy"],
+  "tags": [],
+  "// targets": "to see all targets run: nx show project aws-copy-e2e --web",
+  "targets": {}
+}
