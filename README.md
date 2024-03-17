@@ -1,4 +1,7 @@
-# AwsCopy
+# Simple Backoffice Template
+
+![image](https://github.com/Gabriel-Malenowitch/simple-backoffice-template/assets/56513919/9dbef5ed-e718-4a8f-bbbc-b77750df9e46)
+
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
